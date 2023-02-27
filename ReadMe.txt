@@ -10,4 +10,5 @@ Test 2 - changes in b1
 Test 3 - created new branch b2
 -----------------------------------------
 Branch b2 -1
+Branch b2 -2
 -----------------------------------------
